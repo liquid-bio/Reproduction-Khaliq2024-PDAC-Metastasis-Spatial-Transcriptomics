@@ -1,0 +1,12 @@
+@page { size: A4; margin: 1.6cm 1.7cm; @bottom-center { content: counter(page); font-size: 8pt; } }
+body { font-family: "DejaVu Sans", sans-serif; font-size: 9.5pt; line-height: 1.5; }
+h1 { font-size: 15pt; text-align: center; margin: 0 0 4pt; }
+h2 { font-size: 12pt; border-bottom: 1px solid #999; margin: 12pt 0 4pt; }
+h3 { font-size: 10.5pt; margin: 8pt 0 2pt; }
+p { margin: 3pt 0; text-align: justify; }
+figure { margin: 4pt 0; text-align: center; page-break-inside: avoid; }
+img { max-width: 100%; }
+figcaption { font-size: 8pt; color: #333; text-align: left; }
+table { border-collapse: collapse; font-size: 8pt; margin: 4pt auto; }
+th, td { border: 1px solid #aaa; padding: 1pt 5pt; }
+code { font-size: 8.5pt; }

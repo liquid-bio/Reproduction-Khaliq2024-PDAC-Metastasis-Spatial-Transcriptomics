@@ -1,0 +1,4 @@
+"status","n","frac_edge","median_neighbors"
+"kept_low",15,0.2,6
+"kept_ok",90522,0.122445372395661,6
+"removed",5520,0.185869565217391,6

@@ -1,0 +1,9 @@
+data/*
+!data/README.md
+!data/samples.csv
+results/*
+!results/tables/
+*.rds
+*.log
+report/*.html
+.Rhistory
