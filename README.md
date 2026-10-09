@@ -1,4 +1,4 @@
-# Spatial transcriptomics of primary and metastatic pancreatic cancer
+# Reproduction of Khaliq et al. 2024: Tumor Microenvironment of Primary and Metastatic Pancreatic Cancer by Spatial Transcriptomics – QC, Cell-Type Deconvolution and Spatial Interaction Analysis
 
 A reanalysis of the Visium v1 FFPE dataset of [Khaliq et al., *Nat Genet* 2024](https://pubmed.ncbi.nlm.nih.gov/39294496/) (GEO GSE272362): 29 sections from primary PDAC, liver and lymph-node metastases and adjacent normal pancreas. It was done as a course assignment on spatial transcriptomics analysis and covers spot-level QC, cell-type deconvolution with RCTD and spatial cell-type interaction analysis with MISTy.
 
