@@ -1,4 +1,4 @@
-# 把论文 Supplementary Tables (xlsx) 转成 csv，供核对用（xlsx 太大，用 stdlib 流式解析）
+# Convert the paper's Supplementary Tables (xlsx) to csv for cross-checking (xlsx is large, so it is parsed as a stream with the standard library)
 import zipfile, csv, re, sys
 import xml.etree.ElementTree as ET
 ns = '{http://schemas.openxmlformats.org/spreadsheetml/2006/main}'
